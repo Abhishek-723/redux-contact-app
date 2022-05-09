@@ -1,0 +1,8 @@
+.Navbar{
+    width: 100% - 40px;
+    line-height: 80px;
+    background-color: #3131f6ca;
+    margin: -20px 0 0 0;
+    padding: 0 20px;
+    color: #fff;
+}
